@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Arial, Tahoma, sans-serif;
+}
+
+.header, 
+.footer {
+  background-color: #1f2937;
+}
