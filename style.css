@@ -45,7 +45,6 @@ body {
   display: flex;
   flex-direction: column;
   padding: 12px 0px;
-  padding-bottom: 40px;
   gap: 80px;
   height: auto;
 }
@@ -66,7 +65,7 @@ body {
 .header-card {
   height: 320px;
   display: flex;
-  gap: 60px;
+  gap: 200px;
 }
 
 .header-card .text-block {
@@ -83,4 +82,13 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.footer {
+  color: white;
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 32px 0px;
 }
