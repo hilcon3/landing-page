@@ -120,8 +120,9 @@ body {
 .icons-container {
   display: flex;
   flex-direction: column;
+  justify-content: center;
   align-items: center;
-  padding: 80px 120px 200px 200px;
+  padding: 120px 200px;
   gap: 60px;
 }
 
